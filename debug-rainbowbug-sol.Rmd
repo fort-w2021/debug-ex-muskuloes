@@ -1,0 +1,3 @@
+a) `fboxplot(x_fds, plotlegend = FALSE)`
+b) set the default plotlegend param to `FALSE`
+
